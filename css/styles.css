@@ -8,7 +8,11 @@ h2 {
 }
 p {
     font-family: sans-serif;
+    line-height: 10px;
 }
 ol {
     line-height: 30px;
+}
+html {
+    background-color: rgba(230, 193, 30, 0.897);
 }
